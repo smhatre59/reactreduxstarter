@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom"
 
 import UserList from './UserList.js'
-export default class App extends React.Component{
+export default class Main extends React.Component{
   render(){
     return (
       <div>
