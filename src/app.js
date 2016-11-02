@@ -5,6 +5,6 @@ import {Provider} from "react-redux";
 import MainComponent from "./components/main.js";
 
 ReactDOM.render(
-                <AppComponent />
+                <MainComponent />
                 ,document.getElementById("main")
                 );
